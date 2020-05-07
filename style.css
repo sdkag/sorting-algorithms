@@ -1,0 +1,16 @@
+ul{
+}
+
+ul>li{
+  display: inline-block;
+  list-style: none;
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  vertical-align: auto;
+  font-family: cursive;
+  font-size: 30px;
+  
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.17)
+}
